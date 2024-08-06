@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Which of the below is a variable",
+        "correctAnswer": "let pickMe = ''",
+        "options": [
+            "let pickMe = ''", "pickMe = [0]", "new pickMe {look no further}"
+        ]
+    },
+    {
+        "question": "What dose this  !=  symbol mean? ",
+        "correctAnswer": "Not Equals",
+        "options": [
+            "Greater Than", "Not Equals", "Nothing"
+        ]
+    },
+    {
+        "question": "What dose JSON stand for?",
+        "correctAnswer": "JavaScript Object Notation",
+        "options": [
+            "JavaScript Object Notes", "JavaScript Object Notation", "Java Synchronous Object Notation"
+        ]
+    },
+    {
+        "question": "What key word is used to make a border visable?",
+        "correctAnswer": "Solid",
+        "options": [
+            "px", "Border", "Solid"
+        ]
+    },
+    {
+        "question": "Which is NOT a programming language?",
+        "correctAnswer": "PHD",
+        "options": [
+            "Swift", "Rust", "PHD"
+        ]
+    },
+    {
+        "question": "Which is NOT an inline element?",
+        "correctAnswer": "<form>",
+        "options": [
+            "<button>", "<form>", "<a>"
+        ]
+    },
+    {
+        "question": "What is the term used for adding strings together?",
+        "correctAnswer": "Concacting",
+        "options": [
+            "Added/Adding", "Merge", "Concacting"
+        ]
+    },
+    {
+        "question": "Which is the correct way to insert code into a string?",
+        "correctAnswer": "`${}`",
+        "options": [
+            "'${}'", "`${}`", "${}"
+        ]
+    },
+    {
+        "question": "What dose JavaScript XML stand for?",
+        "correctAnswer": "Java eXtensible Markup Language",
+        "options": [
+            "JavaScript X-rated Markup Language", "JavaScript eXtensible Marks Language", "Java eXtensible Markup Language"
+        ]
+    }
+]

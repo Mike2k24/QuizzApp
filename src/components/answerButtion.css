@@ -1,0 +1,15 @@
+.Answer-btn{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 35px;
+    border: 2px solid aqua;
+    border-radius: 35px;
+    background-color: blue;
+    color: white;
+}
+.Answer-btn:hover{
+    font-weight: bold;
+    background-color: aqua;
+    color: black;
+}
